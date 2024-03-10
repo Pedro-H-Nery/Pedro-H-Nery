@@ -1,7 +1,5 @@
 ### Olá, sou o Pedro Henryque👋
 
-### Uma pequena descrição / Caracteristicas
-
 ### Github stats
 
 ![GitHub Stats do Pedro Henryque](https://github-readme-stats.vercel.app/api/?username=Pedro-H-Nery\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
@@ -23,21 +21,15 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery\&repo=Criador-de-bots\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery\&repo=Criador-de-bots\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery\&repo=AllProjects\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery\&repo=Criador-de-bots\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery\&repo=Criador-de-bots\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery\&repo=Jogo-dos-Botoes\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 ### Contato
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedronery404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/pedro-nery-54b597231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <picture>
