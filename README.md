@@ -39,10 +39,10 @@
 ### ⭐ Melhores Repositórios
 
 <div align="center">  
-  <a href = "https://github.com/Pedro-H-Nery/Criador-de-bots"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=Criador-de-bots&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Criador de Bots" /> </a>
-  <a href = "https://github.com/Pedro-H-Nery/AllProjects"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=AllProjects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AllProjects" /> </a>
-  <a href = "https://github.com/Pedro-H-Nery/OperacoesBasicas-FirebaseBD"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=OperacoesBasicas-FirebaseBD&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Operações Básicas no FireBase BD" /> </a>
-  <a href = "https://github.com/Pedro-H-Nery/Jogo-dos-Botoes"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=Jogo-dos-Botoes&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Jogo dos Botões" /> </a>
+  <a href = "https://github.com/Pedro-H-Nery/Criador-de-bots" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=Criador-de-bots&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Criador de Bots" /> </a>
+  <a href = "https://github.com/Pedro-H-Nery/AllProjects" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=AllProjects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AllProjects" /> </a>
+  <a href = "https://github.com/Pedro-H-Nery/OperacoesBasicas-FirebaseBD" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=OperacoesBasicas-FirebaseBD&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Operações Básicas no FireBase BD" /> </a>
+  <a href = "https://github.com/Pedro-H-Nery/Jogo-dos-Botoes" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=Jogo-dos-Botoes&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Jogo dos Botões" /> </a>
 </div>
 
 ### 📞 Contato
@@ -50,6 +50,7 @@
 <div> 
   <a href = "mailto:pedronery404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/pedro-nery-54b597231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://drive.google.com/file/d/1UrtP3vLQrrL8VPBSAyUVLpj9fSihF87Z/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-E34F26?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a> 
 </div>
 
 <picture>
