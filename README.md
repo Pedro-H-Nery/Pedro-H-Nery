@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Henryque;Sou+Formando+Em+Ciência+Da+Computação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 ### 🚀 Sobre Mim
-- Estudo programação desde o ensino médio que foi onde começei a me apaixonar por essa área.
-- Gosto de aprender sobre automação de sistemas e desenvolvimento web mas estou sempre aberto a aprender novas áreas.
-- Para mim mais importante do que saber apenas uma linguagem é entender o problema e como resolve-lo e só depois pensar em que linguagem usar.
+- Estudo programação desde o ensino médio, que foi onde comecei a me apaixonar por essa área.
+- Gosto de aprender sobre automação de sistemas e desenvolvimento web, mas estou sempre aberto a aprender novas áreas.
+- Para mim, mais importante do que saber apenas uma linguagem é entender o problema e como resolvê-lo e só depois pensar em que linguagem usar.
 
 ### 📃 Alguns dados do GitHub
 
@@ -52,11 +52,5 @@
   <a href="https://linkedin.com/in/pedro-nery-54b597231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://drive.google.com/file/d/1UrtP3vLQrrL8VPBSAyUVLpj9fSihF87Z/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-E34F26?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a> 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-H-Nery/Pedro-H-Nery/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-H-Nery/Pedro-H-Nery/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-H-Nery/Pedro-H-Nery/output/github-contribution-grid-snake.svg">
-</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d94ff&height=120&section=footer"/>
