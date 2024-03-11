@@ -27,7 +27,6 @@
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino&logoColor=white" />
   <img align="center" alt="haskell" src="https://img.shields.io/badge/Haskell-00000F?style=for-the-badge&logo=haskell&logoColor=white" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-00000F?style=for-the-badge&logo=android&logoColor=white" />
