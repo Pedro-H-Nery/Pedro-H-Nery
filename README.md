@@ -7,13 +7,6 @@
 - Gosto de aprender sobre automação de sistemas e desenvolvimento web, mas estou sempre aberto a aprender novas áreas.
 - Para mim, mais importante do que saber apenas uma linguagem é entender o problema e como resolvê-lo e só depois pensar em que linguagem usar.
 
-### 📃 Alguns dados do GitHub
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedro-H-Nery&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117&rank_icon=github" alt="Pedro Henryque GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-H-Nery&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=151515" />
-</div>
-
 ### 💻 Tecnologias que mais domino
 
 <div style="display: inline_block">
@@ -35,15 +28,6 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
-
-### ⭐ Melhores Repositórios
-
-<div align="center">  
-  <a href = "https://github.com/Pedro-H-Nery/Criador-de-bots" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=Criador-de-bots&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Criador de Bots" /> </a>
-  <a href = "https://github.com/Pedro-H-Nery/AllProjects" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=AllProjects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AllProjects" /> </a>
-  <a href = "https://github.com/Pedro-H-Nery/Maratona-De-Programacao" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=Maratona-De-Programacao&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Maratona De Programação" /> </a>
-  <a href = "https://github.com/Pedro-H-Nery/Jogo-dos-Botoes" target="_blank"><img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin?username=Pedro-H-Nery&repo=Jogo-dos-Botoes&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Jogo dos Botões" /> </a>
-</div>
 
 ### 📞 Contato
 
